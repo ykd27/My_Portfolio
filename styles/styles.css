@@ -1,0 +1,16 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.styleRed {
+  color: red;
+}
+.styleGreen {
+  color: green;
+}
+.styleBlue {
+  color: blue;
+}
+.stylePurpale {
+  color: purple;
+}
