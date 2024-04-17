@@ -27,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  // url: 'https://myportfolio-.netlify.app/',
+  url: 'https://my-portfolio-eight-iota-59.vercel.app/',
   linkedin: 'https://www.linkedin.com/in/yogendrakdubey',
   github: 'https://github.com/ykd27',
   instagram: 'https://www.instagram.com/yogendrakdubey_/',
@@ -69,10 +69,7 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Nextjs',
           fontAwesomeClassName: 'vscode-icons:file-type-light-next',
         },
-        // {
-        //   skillName: 'Python',
-        //   fontAwesomeClassName: 'logos:python',
-        // },
+      
         {
           skillName: 'Mongodb',
           fontAwesomeClassName: 'vscode-icons:file-type-mongo',
@@ -90,10 +87,7 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Cpp',
           fontAwesomeClassName: 'vscode-icons:file-type-cpp3',
         },
-        // {
-        //   skillName: 'tailwindcss',
-        //   fontAwesomeClassName: 'devicon:tailwindcss',
-        // },
+        
       ],
     },
     {
@@ -135,45 +129,7 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:netlify',
         },
       ],
-    },
-    // {
-    //   title: 'Blockchain',
-    //   lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
-    //   skills: [
-    //     emoji(
-    //       '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
-    //     ),
-
-    //     emoji('⚡ Help to Building Staking Dapp in BSC chain '),
-    //     emoji('⚡ Developing NFT Smart Contracts using ERC-721 Token Standard'),
-    //     emoji(
-    //       '⚡Help to  Building Dapps with React.js & Solidity using Web3.js&  Moralis '
-    //     ),
-    //   ],
-    //   // https://icon-sets.iconify.design/logos/netlify/    for logo
-    //   softwareSkills: [
-    //     {
-    //       skillName: 'Ethereum',
-    //       fontAwesomeClassName: 'logos:ethereum',
-    //     },
-    //     {
-    //       skillName: 'Solidity',
-    //       fontAwesomeClassName: 'logos:solidity',
-    //     },
-    //     {
-    //       skillName: 'Web3js',
-    //       fontAwesomeClassName: 'logos:web3js',
-    //     },
-    //     {
-    //       skillName: 'Metamask',
-    //       fontAwesomeClassName: 'logos:metamask-icon',
-    //     },
-    //     {
-    //       skillName: 'BSC',
-    //       fontAwesomeClassName: 'mingcute:binance-coin-bnb-fill',
-    //     },
-    //   ],
-    // },
+    },   
   ],
 };
 
@@ -216,44 +172,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'React Development',
     company: 'Coding Spoon',
-    links: 'https://www.eloin.tech/?',
+    links: 'https://www.codingspoon.com/',
     companyLogo: '/img/icons/common/CS.png',
     date: 'January 2023 - February 2023',
     desc: ` "Gained hands-on experience in developing, implementing, and maintaining internal web applications." ,
     "Assisted the technical and business staff with the design, development, testing, implementation, and maintenance of new programs using-ReactJS on a weekly." ,
     "Basis Performed automated and manual tests to ensure the software created by developers is up to date and working seamlessly."`,
   },
-  // {
-  //   role: 'Graphic Designer & SmartContract Dev',
-  //   company: 'Abura Farm',
-  //   links: 'https://coinmarketcap.com/currencies/abura-farm/#About',
-  //   companyLogo: '/img/icons/common/dusecaSoftware1.png',
-  //   date: 'December 2021 - February 2022',
-  //   desc: `"Serve as a logo and graphic designer.",
-  //   "Helped in  creating, maintaining and integrating the SmartContract with BSC BlockChain."`,
-  //   // descBullets: [
-  //   // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-  //   // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-  //   // ],
-  // },
-  // {
-  //   role: 'Community Manager, Graphic Desiginer',
-  //   company: 'Oxbul.tech',
-  //   links: 'https://oxbull.tech/',
-  //   companyLogo: '/img/icons/common/bleedAI.png',
-  //   date: 'March 2022 - March 2022',
-  //   desc: ` "Serve as a  graphic and Poster  designer.",
-  //   "Managed Telegram community",`,
-  // },
-  // {
-  //   role: 'Build full stack website with BlockChain Wallet Integration ',
-  //   company: 'AptosLauncher',
-  //   links: 'https://aptoslauncher.tech/',
-  //   companyLogo: '/img/icons/common/wapidu.png',
-  //   date: 'Jan 2023 - Apr 2023',
-  //   desc: ` "Developed graphics, logo and website content, it uses binance API for live crypto price update.",
-  //   "Developed features where users generate their image using prompt by AI technology."`,
-  // },
+
 ];
 
 export const projects: ProjectType[] = [
@@ -309,49 +235,7 @@ export const projects: ProjectType[] = [
     source_code_link: 'https://github.com/ykd27/Disney-Plus-Hotstar',
     source_code_link1: 'https://disney-plus-hotstar-seven.vercel.app/',
   },
-  // {
-  //   name: 'Dynamic Crypto Token Website',
-  //   description:
-  //     'A web-based platform that allows users to know about the work of the company and there products.',
-  //   tags: [
-  //     {
-  //       name: 'Vite React',
-  //       color: 'styleRed',
-  //     },
-  //     {
-  //       name: 'firebass',
-  //       color: 'styleGreen',
-  //     },
-  //     {
-  //       name: 'Tailwind',
-  //       color: 'styleBlue',
-  //     },
-  //     {
-  //       name: 'Binance Api',
-  //       color: 'stylePurpale',
-  //     },
-  //   ],
-
-  //   source_code_link: 'https://github.com/SAMshashank/React-App-APTOSLAUNCHER',
-  //   source_code_link1: 'https://aptoslauncher.tech/',
-  // },
   
-  // {
-  //   name: 'My Crypto Token on BSC ',
-  //   description:
-  //     'A web-based platform that allows users to know about the work of the company and there products.  ',
-
-  //   tags: [
-  //     {
-  //       name: 'Solidity',
-  //       color: 'styleBlue',
-  //     },
-  //   ],
-
-  //   source_code_link: 'https://github.com/SAMshashank/TOKEN',
-  //   source_code_link1:
-  //     'https://testnet.bscscan.com/tx/0xb66092b6f4a2f6969871bfa4939094d10b16213f8b49d6e5b066f132e08bea4b',
-  // },
   {
     name: 'My Protfolio website ',
     description:
@@ -376,8 +260,8 @@ export const projects: ProjectType[] = [
       },
     ],
 
-    source_code_link: 'https://github.com/SAMshashank/MyPortfolio',
-    source_code_link1: 'https://github.com/SAMshashank/MyPortfolio',
+    source_code_link: 'https://github.com/ykd27/My_Portfolio',
+    source_code_link1: 'https://my-portfolio-eight-iota-59.vercel.app/',
   },
   {
     name: 'AI Image Generator(Working) ',
@@ -431,7 +315,7 @@ export const seoData: SEODataType = {
     'A passionate Full Stack Web Developer.',
   author: 'Yogendra Kumar Dubey',
   image:
-    'https://myportfolio-shashankkushwaha.netlify.app/assets/logo-eb5774cf.svg',
-  url: 'https://myportfolio-shashankkushwaha.netlify.app/',
+    '.',
+  url: 'https://my-portfolio-eight-iota-59.vercel.app/',
   keywords: ['Yogendra Kumar Dubey'],
 };
