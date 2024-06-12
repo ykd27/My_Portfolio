@@ -66,7 +66,7 @@ const Greetings = () => {
               x="0"
               y="0"
             >
-              <polygon className="fill-white" points="2560 0 2560 100 0 100" />
+              <polygon className="fill-white" points="2560 0 2560 98.5 0 98.5" />
             </svg>
           </div>
         </section>
